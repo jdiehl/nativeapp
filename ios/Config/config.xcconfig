@@ -1,0 +1,9 @@
+BUNDLE_DISPLAY_NAME = NativeApp
+
+PRODUCT_BUNDLE_IDENTIFIER = com.mendix.native.template$(BUNDLE_IDENTIFIER_APPEND)
+
+RUNTIME_URL = https:\/\/nativeapp452-sandbox.mxapps.io
+
+PRODUCT_NAME = NativeApp
+
+HERMES_ENABLED = NO
