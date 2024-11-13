@@ -20,6 +20,7 @@
     "@react-native-picker/picker": "2.4.8",
     "@react-navigation/native": "6.1.6",
     "react-native": "0.73.8",
+    "react-native-compass-heading": "2.0.0",
     "react-native-device-info": "11.1.0",
     "react-native-fast-image": "8.6.3",
     "react-native-gesture-handler": "2.16.2",
